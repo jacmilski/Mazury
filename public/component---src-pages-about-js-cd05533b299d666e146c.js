@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(t,a,e){"use strict";e.r(a);e("q1tI");var n=e("Bl7J"),c=e("qKvR");a.default=function(t){var a=t.data;return Object(c.a)(n.a,null,Object(c.a)("h1",null,a.site.siteMetadata.title),Object(c.a)("p",null,"10 rzeczy, których prawdopodobnie nie wiesz o Mazurach"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-cd05533b299d666e146c.js.map
